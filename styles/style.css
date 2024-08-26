@@ -133,8 +133,8 @@ body {
 
 .output__texto {
     font-family: var(--fonte-primaria);
-    color: var(--cor-quatenaria);
-    font-size: 1.25rem;
+    color: var(--cor-secundaria);
+    font-size: 2rem;
     margin-bottom: 10px;
 } 
 
